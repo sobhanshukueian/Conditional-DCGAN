@@ -47,3 +47,7 @@ Each generative model training step occurse in `train_generator` function, descr
 *   Each time you train model weights and plot(if `save_plots` == True) will be saved in `save_dir`.
 *   You can find a `configs` file in `save_dir` that contains some information about run. 
 *   You can choose Optimizer: `OPTIMIZER` 
+
+# Result
+
+![c-dcgan](https://user-images.githubusercontent.com/47561760/192878304-8893a17a-bdc5-4c43-8d18-586d88249912.png)
